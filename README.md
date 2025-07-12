@@ -1,0 +1,1 @@
+Esse código foi feito como resolução do exercício 92 do curso de Python co canal Curso em Vídeo. Trata-se de uma versão aprimorada da proposta inicial, contendo algumas informações extras e um tratamento de erros completo.
